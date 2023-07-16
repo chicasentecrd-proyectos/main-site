@@ -1,0 +1,47 @@
+body {
+    background-image: url("Fondo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+    
+div {
+    float: left;
+}
+
+div {
+    border:rgb(255, 192, 203) solid 10px;
+    padding: 5px;
+    margin: 5px;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+
+}
+
+h1 {
+    font-size: 100px;
+    text-align: center;
+    background-color: rgb(255, 192, 218);
+    color: rgb(0, 0, 0);
+}
+
+p {
+    float: left;
+    border: rgb(0, 0, 0);
+    margin: 5px;
+    padding: 5px;
+    background-color: rgb(192, 251, 255);
+    font-family: cursive;
+}
+
+h2 {
+    color: rgb(255, 192, 239);
+    background-color: rgb(255, 192, 239);
+    text-align: center;
+}
+
+h6 {
+    float:left;
+}

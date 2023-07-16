@@ -1,0 +1,23 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: lightcyan;
+}
+div {
+    background-color: cadetblue;
+}
+
+h1, h2 {
+    background-color: aquamarine;
+}
+img{
+    width: 200px;
+    height: 200px;
+ }
+#arreglopasteldechocolate {
+    width: 200px;
+    height: 200px;
+}
+
+.classeingredientes {
+    border: lightgreen solid 5px;
+}

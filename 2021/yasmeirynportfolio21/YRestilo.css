@@ -1,0 +1,40 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: lightcyan;
+    background-image: linear-gradient(#FFAEBC, #FBE7C6);
+    text-align: center;
+    font-size: 120%;
+}
+
+img {
+    width: 255px;
+    height: 210px;
+}
+
+button {
+    color: rgb(253, 253, 253);
+    background-color: blueviolet;
+}
+
+.proyectos {
+    background-color: #FBE7C6;
+    border: rgba(223, 103, 169, 0.973) solid 5px;
+}
+
+#encabezado {
+    background-color: #FBE7C6; 
+}
+
+#bio { 
+    background-color:#FBE7C6;
+    border: violet dotted 5px;
+}
+
+#tituloDestacados {
+    color:blueviolet; background-color:#FBE7C6;
+}
+
+#contenedorProyectos {
+    color:blueviolet; background-color:#FBE7C6;
+}
+

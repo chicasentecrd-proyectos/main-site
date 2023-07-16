@@ -1,0 +1,113 @@
+body { 
+    background-color: #ede7dc;
+}
+
+img { 
+    width: 400px;
+    height: 300px;
+}
+
+#parrafo1 { 
+       text-align: center;
+       border:#DCD2CC solid 5px;
+    padding: 10px;
+    margin: 15px;
+}
+
+#parrafo2 {
+     background-color: #CCAFA5;
+    text-align: center;
+    border:#DCD2CC solid 5px;
+    padding: 10px;
+    margin: 15px;
+}
+
+#parrafo3 { background-color: #CCAFA5;
+    text-align: center;
+    border:#DCD2CC solid 5px;
+    padding: 10px;
+    margin: 15px;
+}
+
+
+h2 {
+     font-family: cursive;
+}
+
+#tercertitulo { 
+    text-align: center;
+}
+
+#parrafo4 { 
+    background-color: #b48676;
+    border:#DCD2CC solid 5px;
+    padding: 10px;
+    margin: 15px;
+}
+
+#boton {
+    text-align: center;
+    padding: 10px;
+}
+
+#parrafo5 {
+    border:#DCD2CC solid 5px;
+    padding: 10px;
+    margin: 15px;
+}
+
+#imagen {
+    border:#b48676 solid 5px;
+    padding: 10px;
+    margin: 25px;
+    background-image: url(bellasartes.jpg);
+    width: 1270px;
+    height: 200px;
+}
+
+h1 {
+    text-align: center;
+    font-family: cursive;
+}
+
+#titulo2 {
+    font-family: monospace;
+
+}
+  
+#parrafobella {
+    background-color: #b48676;
+    border:#DCD2CC solid 5px;
+    padding: 10px;
+    margin: 15px;
+}
+
+#imagen2 {
+    text-align: center;
+    width: 400px;
+    height: 300px;
+    float: left;
+}
+
+#parrafobella2 {
+    text-align: center;
+}
+
+#titulobella {
+    background-color: #CCAFA5;
+    text-align: center;
+    font-size: 200%;
+}
+ #imagen2 {
+     float: left;
+     width: 400px;
+     height: 300px;
+ }
+
+#parrafoimg {
+    text-align: center;
+}
+
+.arte {
+    text-align: center;
+}
