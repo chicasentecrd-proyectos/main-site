@@ -1,0 +1,37 @@
+body {
+    background-image: url(black-back.jpg);
+}
+div {
+    float: left;
+    border:cadetblue solid 12px;
+    margin: 20px;
+    padding: 5px;
+}
+img {
+    width: 410px;
+    height: 440px;
+}
+
+h1 {
+    font-size: 190%;
+    text-align: center;
+    background-color: cadetblue;
+    color: darkslategrey;
+}
+h6 {
+    float: left;
+    font-size: 90%;
+    border: firebrick solid 7px;
+    margin: 10px;
+    padding: 10px;
+    background-color: cadetblue;
+
+
+}
+p {
+    float: left;
+    border: firebrick solid 7px;
+    margin: 10px;
+    padding: 10px;
+    background-color: cadetblue;
+}

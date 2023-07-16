@@ -1,0 +1,31 @@
+body {
+    background-color: bisque;
+}
+img {
+    height: 100px; 
+    width: 1063px;
+}
+h1 {
+    background-color: lightsalmon;
+}
+
+h4 {
+    background-color: lightsalmon;
+}
+
+.ciudad {
+    background-color: navajowhite;
+}
+.comidas{
+    background-color: peachpuff;
+}
+
+#Miencabezado {
+    text-align: center;
+    font-size: 270px;
+    background-color: seashell;
+}
+#Bibliografia {
+    background-color:wheat;
+    color:black;
+}

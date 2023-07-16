@@ -1,0 +1,35 @@
+body {
+    background-color: #53DFD1 ;
+    text-align: center;
+}
+img {
+    width: 300px;
+    height: 300px;
+    border: bisque dashed 8px;
+    margin: 10px;
+    
+}
+button {
+    background-color:deepskyblue;
+}
+.proyectos {
+    background-color: #9DE3F6;
+    text-align: center;
+}
+#encabezado {
+    background-color:bisque;
+    text-align: center;
+    font-family: initial;
+}
+#bio {
+    background-color: #9DE3F6;
+}
+#tituloDestacados {
+     background-color:powderblue;
+     border: bisque dashed 8px ;
+}
+#contenedorProyectos{
+    background-color: bisque;
+}
+
+

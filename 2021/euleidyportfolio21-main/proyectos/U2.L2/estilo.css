@@ -1,0 +1,25 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    background-color: lightcyan;
+}
+div {
+    background-color: cadetblue;
+}
+h1, h2 {
+    background-color: aquamarine;
+}
+img {
+    width: 200px;
+    height: 200px;
+}
+#arregloPollo {
+    width: 530px;
+    height: 315px;
+}
+#arregloPollo2 {
+    width: 400px;
+    height: 400px;
+}
+.ClaseIngredientes {
+    border: lightgreen solid 5px;
+}
