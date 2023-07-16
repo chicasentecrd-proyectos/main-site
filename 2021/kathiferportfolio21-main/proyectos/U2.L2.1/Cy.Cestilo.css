@@ -1,0 +1,28 @@
+body {
+    background-color:bisque;
+}
+img {
+    
+    width: 800px; height: 100px;
+}
+h1 {
+    background-color:rgb(228, 218, 178);
+}
+.ciudades {
+    background-color: cornflowerblue;
+}
+
+.comida {
+    background-color: rgb(139, 177, 248);
+}
+
+#especialtitulo{
+    text-align:center ;
+    font-size: 75px;
+    background-color: burlywood;
+}
+
+#Bibliografias{
+   background-color: rgb(125, 125, 172);
+   color:bisque
+}

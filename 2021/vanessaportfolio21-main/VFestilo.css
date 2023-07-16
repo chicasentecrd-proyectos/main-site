@@ -1,0 +1,43 @@
+body {
+text-align:center;
+font-family: fantasy;
+background-color:#059DC0;
+border:aquamarine solid 15px;
+padding:10;
+margin: 20px;
+}
+img {
+    height:200px;
+    width:200px;
+}
+
+button {
+    background-color:lightblue;
+}
+
+.proyectos {
+    background-color:aqua;
+}
+
+#encabezado {
+    background-color:#059DC0;
+}
+
+#bio {
+    background-color:lightskyblue;
+    font-family:cursive
+     
+}
+
+#tituloDestacados {
+    background-color:turquoise;
+}
+
+#contenedorProyectos {
+    background-color:turquoise;
+}
+h2 {
+    border: lightslategray solid 5px;
+    padding: 10px;
+    margin:20px;
+}

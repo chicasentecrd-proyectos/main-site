@@ -1,0 +1,40 @@
+body{
+    background-image: url(frozen.jpg);
+}
+
+div{
+    float: left;
+    border: rgb(77, 121, 233) solid 15px;
+    margin: 30px;
+    padding: 10px;
+
+}
+
+#ana {
+    width: 500px;
+    height: 400px;
+}
+
+#elsa {
+    width: 500px;
+    height: 400px;
+}
+h1{
+   font-size: 50px;
+   text-align: center;
+   background-color: rgb(94, 196, 233);
+   color: white;
+
+}
+p{
+    float: left;
+    border: rgb(66, 152, 243) solid 10px;
+    margin: 20px;
+    padding: 10px;
+    background-color: violet;
+    font-family: fantasy;
+}
+
+h6 {
+    float: left;
+}

@@ -1,0 +1,14 @@
+div {
+    border:black solid 10px;
+    float:left;
+    margin: 30px;
+    background-color:beige
+}
+
+img{
+    width: 209px;
+
+}
+body{
+    background-image: url(pastelp.webp);
+}

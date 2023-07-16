@@ -1,0 +1,38 @@
+body { 
+font-family: 'Times New Roman', Times, serif;
+background-color:#FFD4DB;
+background-color:#BBE7FE, #D3B5E5 ;
+text-align: center;
+font-size: 260;
+font-family: cursive;
+}
+
+img { 
+
+width: 250px;
+height: 230px;
+}
+ 
+button { 
+    background-color:#EEB5EB ;
+}
+ 
+.proyectos { 
+ background-color:#C26DBC;
+font-family: cursive;
+border:#3CACAE  solid 5px;
+}
+ 
+#encabezado { 
+background-color:#BD97CB;
+}
+
+#bio { 
+ background-color:#6AF2F0;
+ border:#D3B5E5  solid 5px;
+}
+
+
+
+
+

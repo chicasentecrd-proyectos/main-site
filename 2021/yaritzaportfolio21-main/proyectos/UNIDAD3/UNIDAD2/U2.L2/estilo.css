@@ -1,0 +1,21 @@
+body{
+    font-family:'Times New Roman', Times, serif;
+    background-color: lightcyan;
+}                                                                          
+div{
+    background-color: cadetblue;
+}
+h2,h1{
+    background-color: aquamarine;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+#arregloCoco{
+    width: 300px;
+    width: 300px;
+}
+.ingrediente{
+    border:lightgreen solid 5px;
+}

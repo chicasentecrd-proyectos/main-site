@@ -1,0 +1,31 @@
+body{
+    background-image: linear-gradient( #FD49A0, #A16AE8, #B4FEE7, #603F8B);
+    text-align: center;
+}
+button{
+    background-image: linear-gradient(to right, #EFF1DB,#FFD4DB,#D3B5E5,#BBE7FE);
+    font-family: fantasy;
+}
+img {
+    width: 300px;
+    height: 400px;
+}
+.proyectos{
+ background-color: rgb(166, 224, 224);
+ font-family: fantasy;
+}
+#encabezado {
+    background-color:#E4B4B4;
+    font-family: fantasy;
+}
+#bio{
+    background-color:#6AF2F0;
+    font-family: fantasy;
+}
+#tituloDestacados{
+    background-image: linear-gradient(rgb(221, 128, 128), rgb(128, 128, 89));
+}
+#contenedorProyectos{
+    background-color: rgb(174, 143, 204);
+}
+

@@ -1,0 +1,41 @@
+
+body { 
+background-color: turquoise;
+border: thistle;
+text-align: center;
+font-size: medium;
+font-family: cursive;
+font-style: italic;
+}
+
+div { 
+background-color: violet;
+}
+
+h2 { 
+background-color: thistle;
+}
+
+h1 { background-color: rgb(124, 159, 192);}
+
+p { 
+background-color: rgb(171, 197, 207);
+}
+h4 { 
+    background-color: rgb(214, 158, 195);
+}
+
+ul { 
+    background-color: turquoise;
+}
+
+ol{ 
+    background-color: rgb(92, 173, 169);
+} 
+
+h3 { 
+    background-color: lightslategray;
+}
+
+
+

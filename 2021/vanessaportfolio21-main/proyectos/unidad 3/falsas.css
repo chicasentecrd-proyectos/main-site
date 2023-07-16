@@ -1,0 +1,67 @@
+body {
+    background-color:#FCECA5;
+    text-align:justify;
+    background-image:url("falsas.jpg");
+    padding:10px;
+    margin:5px;
+    border: 15px;;
+}
+
+div {
+background-color:#FEC8A7;
+}
+
+
+h3,h4 {
+    background-color:#CBC7FC;
+}
+
+h2 {
+    text-align:center;
+    background-color:#FEC8A7;
+    font-size:150%;
+}
+
+p {
+    background-color:#B5EECB;
+    text-align:center;
+}
+
+ol {
+    background-color:#FEC8A7;
+}
+
+.formas {
+    background-color:#FCECA5;
+    text-align:center;
+}
+
+.falsos{
+    background-color:#FEC8A7;
+    text-align:center;
+}
+
+#especial {
+    background-color:#CBC7FC;
+    text-align:center;
+}
+
+#especial2 {
+    background-color:#B5EECB;
+    text-align:center;
+}
+
+#especial3 {
+    background-color:#FCECA5;
+    text-align:center;
+}
+
+#especial4 {
+    background-color:#FEC8A7;
+    text-align:center;
+}
+
+#bibliografia {
+    background-color:#CBC7FC;
+    text-align:left;
+}

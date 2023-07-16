@@ -1,0 +1,31 @@
+body{ 
+    background-image:url( yonairy.jpg);
+}   
+
+div{ 
+    float:  left;
+    border:pink solid 5px;
+    margin: 10px;
+}
+
+img{ 
+    width: 350px;
+    height: 400px;
+}
+
+ h1{ 
+ font-size: 150px;
+ text-align: center;
+background-color: rebeccapurple;
+color: salmon;
+ }
+
+p{ 
+float: left;
+border: slateblue;
+margin: 10px;
+padding: 15px;
+background-color: slategray;
+}
+
+

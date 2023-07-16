@@ -1,0 +1,30 @@
+body{
+    background-color:#ECF87F ;
+    background-size: cover;
+}
+div{
+    float: left;
+    border: forestgreen solid 10px;
+    margin: 10px;
+    padding: 5px;
+}
+img{
+    height: 300px;
+    width: 600px;
+}
+h1{
+    border:#81B622 dotted ;
+    text-align-last: center;
+    background-color: honeydew;
+    color: forestgreen;
+}
+p{
+    float: left;
+    border: forestgreen solid 15px;
+    margin: 10px;
+    padding: 5px;
+    background-color:rgb(157, 206, 157);
+}
+h6{
+    background-color: #3D550C
+    ;}

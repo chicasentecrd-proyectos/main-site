@@ -1,0 +1,44 @@
+body{
+    background-color:#E7D2CC;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+img{
+    height: 500px;
+    width: 400px;
+    border: #868B8E solid 10px;
+    padding: 10px;
+    margin: 10px;
+}
+button{
+    background-image:linear-gradient(#FF2768,#F2E6D6) ;
+    float: right;
+}
+.proyectos{
+    background-color:#EED6D3 ;
+    border: #A49393 solid 10px;
+    margin: 10px;
+    padding: 10px;
+}
+#encabezado{
+text-align: center;
+font-size: 70px;
+color: #67595E;
+}
+#bio{
+text-align: center;
+background-color: #EEEDE7;
+border:#A49393 solid 10px;
+padding: 10px;
+margin: 10px;
+}
+#tituloDestacados{
+text-align: center;
+color: #67595E;
+}
+#contenedorProyectos{
+background-color:#E8B4B8 ;
+text-align: center;
+border: #A49393 solid 10px;
+padding: 10px;
+margin: 10px;
+}

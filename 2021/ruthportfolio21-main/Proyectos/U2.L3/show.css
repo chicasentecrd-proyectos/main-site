@@ -1,0 +1,26 @@
+body{
+    background-image: url("riverdale.jpg"); 
+}
+div{
+    float: left;
+    border: palegreen solid 10px;
+    margin: 30px;
+    padding: 40px;
+}
+img{
+    height: 400px;
+    width: 350px;
+}
+h1{
+    font-size: 400%;
+    text-align: center;
+    background-color:midnightblue;
+    color: plum;
+}
+p{
+    float: left;
+    border: royalblue solid 10px;
+    margin: 20px;
+    padding: 30px;
+    background-color: seashell;
+}

@@ -1,0 +1,34 @@
+body{
+    background-color:#F7CAC9 ;
+    text-align: center;
+}
+h1{
+    background-color: #BF3880;
+    font-size: 60px;
+    font-family: cursive;
+    text-align: center;
+    border: white dotted 15px;
+    
+}
+h2{
+    background-color: #D68FB0;
+    font-size: 30px;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+    color: #EAE6F0;
+    background-color: #FFA3B8;
+    border: #EBE0D0 solid 10px;
+    margin: 10px;
+    padding: 10px;
+}
+button{
+    font-size: 25px;
+    font-family: cursive;
+}
+img{
+    border: #AE8B70 solid 10px;
+
+}
+    

@@ -1,0 +1,42 @@
+body {
+    background-color:aliceblue;
+}
+
+h1{
+    border: darkblue dashed 10px;
+    background-color:#050A30 ;
+    text-align:center ;
+    color:#0000FF ;
+}
+
+h2{
+    border: dodgerblue solid 5px;
+    padding: 10px;
+    background-color: #0000FF;
+    color: #7EC8E3; 
+    text-align-last: center;
+}
+
+img{
+    height: 300px; width: 425px  
+}
+
+p{
+    background-color:#BFD7ED; border:#04D4F0 ;
+}
+
+div{
+    background-color: #04D4F0;
+}
+
+button{
+    color: dodgerblue;
+    background-color:#0000FF ;
+}
+
+#botones {
+    text-align: center;
+}
+.boton{
+    text-align-last: center;
+}

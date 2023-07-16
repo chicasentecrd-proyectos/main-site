@@ -1,0 +1,32 @@
+body{
+    background-image: url(enre.jpg);
+}
+div{
+    float:left;
+ border:mediumseagreen solid 13px;
+ margin: 10px;
+ padding: 10px;
+}
+img{
+    width: 270px;
+    height: 350px;
+}
+h1{
+font-size: 200%;
+text-align: center;
+background-color: rgb(255, 148, 255);
+color:darkorchid;
+}
+p{
+float:left;
+border:lightseagreen solid 10px;
+margin: 10px;
+padding:10px;
+background-color: skyblue;
+}
+h6{
+    float: left;
+}
+button{
+    float: left;
+}

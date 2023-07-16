@@ -1,0 +1,31 @@
+body{
+    background-color: lightgrey;
+    font-family: 'Times New Roman', Times, serif;
+}
+img{
+    height: 300px; 
+    width: 1400px;
+}
+h1{
+    background-color: lightsteelblue;
+    text-align: center;
+}
+h2 {
+    text-align: left;
+    color:midnightblue;
+}
+.clasesciudad{
+    border: mediumblue solid 10px;
+}
+.comidas{
+    border: purple solid 10px;
+}
+#mititulopreferido{
+    background-color: ivory;
+    font-size: 300;
+    text-align: center;
+}
+#mibibliografia{
+    background-color:mediumslateblue;
+    color:gainsboro;
+}

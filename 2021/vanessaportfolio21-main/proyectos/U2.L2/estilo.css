@@ -1,0 +1,33 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    background-color: lightcyan;
+}
+
+div {
+    background-color: cadetblue;
+}
+
+h1,h2 {
+    background-color: aquamarine;
+}
+
+img{
+    width:200px;
+    height:200px ;
+
+}
+
+#arreglopizza{
+    width:250px;
+    height:200px ;
+}
+
+.claseingrediente{
+    border:lightgreen solid 5px;
+}
+
+
+
+
+
+

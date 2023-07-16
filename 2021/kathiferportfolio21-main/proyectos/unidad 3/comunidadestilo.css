@@ -1,0 +1,62 @@
+body{ 
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(97,112,129,1) 0%, rgba(0,212,255,1) 100%);; 
+}
+img{
+    border: black double 10px;
+    height: 200px;
+    width: 300px;
+}
+div{
+    text-align: center;
+ 
+}
+h2{
+    text-align: center;
+    border:dashed #9CA89E  10px;  
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3{
+    border: dotted #16796F 10px;
+    text-align: center;
+    background-color:#B1B1B1 ;
+}
+h6{
+    background-color: darkgray;
+}
+ul{
+    background-color: #D9E4EC;
+}
+
+
+#texto1{
+    text-align: left;
+    font: size 55px;
+}
+
+#toca2{
+    text-align: left;
+    font-family: cursive;
+}
+
+
+.importantes{
+    background-color:#16796F;
+    text-align: center;
+    font-family: monospace;
+}
+
+
+#especial{
+    font-family: fantasy;
+   background-image:url("fondohtml.jpg");
+   color: white;
+}
+
+.cursos1{
+    background-color:#9CA89E;
+    border: dotted 5px  #16796F
+}
