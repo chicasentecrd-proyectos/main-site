@@ -1,0 +1,36 @@
+body{
+    background-image: url("humo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div{
+    float: left;
+    border: rgb(15, 15, 15) solid 6px;
+    margin: 5px;
+    padding: 3px;
+}
+img {
+    width: 600px;
+    height: 400px;
+}
+h1{
+font-size: 190%;
+text-align: center;
+background-color: rgb(156, 23, 23);
+color: rgb(58, 49, 49);
+}
+
+p{
+    float: left;
+    border: rgb(88, 6, 1) solid 6px;
+     margin: 5px;
+     padding: 4px;
+     background-color: darkred;
+     font-family:cursive
+}
+h2{
+    color: rgb(109, 0, 0);
+    background-color: rgb(12, 12, 12);
+    text-align: center;
+    font-size: 190;
+}
