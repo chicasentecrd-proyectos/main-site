@@ -1,0 +1,72 @@
+#especial, #especial2 {
+    display: inline-block;
+    font-family: 'Dancing Script';
+    font-size: 100px;
+    color: black;
+    text-transform: none;
+    margin: 0 20px;
+    opacity: 0.0;
+    animation: fadeIn ease 5s;
+    -webkit-animation: fadeIn ease 5s;
+}
+  @keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+  }
+  
+  @-moz-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+  }
+  
+  @-webkit-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+  }
+  
+  @-o-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+  }
+  
+  @-ms-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+    
+  }
+h2 {
+    background-image: linear-gradient(#BBE7FE,#D3B5E5,#FB4570,#EFEBE0,#FB6B90,#FB8DA0,#E43D40,#F37970,#F85C70,#FABEC0,#FFD4DB,#EFF1DB);
+    border:#FB4570 solid 10px;
+    margin: 50px;
+    padding: 10px;
+}
+
+  body {
+    background-image: linear-gradient(#BBE7FE,#D3B5E5,#FB4570,#EFEBE0,#FB6B90,#FB8DA0,#E43D40,#F37970,#F85C70,#FABEC0,#FFD4DB,#EFF1DB,#FB4570,#EFEBE0,#FB6B90,#FB8DA0,#E43D40,#F37970,#F85C70,#FABEC0,#BBE7FE,#D3B5E5,#FB4570,#EFEBE0,#FB6B90,#FB8DA0,#E43D40,#F37970,#F85C70,#FABEC0,#FFD4DB,#EFF1DB);
+  }
+  p {
+      border: #EFEBE0 solid 10px;
+margin: 50px;
+padding: 10px;
+
+  }
+  a {
+    border:#FB4570 solid 10px;
+    margin: 50px;
+    padding: 10px;
+  }
+  iframe {
+    border:#FB4570 solid 10px;
+    margin: 50px;
+    padding: 10px;
+  }
+  ul {
+    border:#FB4570 solid 10px;
+    margin: 50px;
+    padding: 10px;
+  }
+  img {
+    border:#FB4570 solid 10px;
+    margin: 50px;
+    padding: 10px;
+  }

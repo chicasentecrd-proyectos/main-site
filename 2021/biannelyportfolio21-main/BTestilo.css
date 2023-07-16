@@ -1,0 +1,29 @@
+body {
+background-image: linear-gradient(#F9F1F0,#FADCD9,#F8AFA6,#F79489);
+}
+img {
+background-image: linear-gradient(#391306,#F1CED4,#AA1945,#F9CCD3);
+width: 128px;
+height: 128px;
+}
+button {
+    background-image: linear-gradient(#821D30,#FB6090,#F7D6D0,#FFC5D0);
+}
+.proyecto {
+    background-image: linear-gradient(#67595E,#A49393,#EED6D3,#E8B4B8);
+    font-size: 300%;
+    text-align: center;
+}
+#encabezado {
+    background-image: linear-gradient(#E98980,#EBBBB0,#F4B9B8,#D48C70);
+border:#ECC0B0 solid 10px;
+margin: 10px;
+padding: 10px;
+}
+#bio {
+    background-image: linear-gradient(#9C3940,#ECC0B0,#F9E4D0,#FBE7E0);
+float: left;
+border: #D48C70 solid 10px;
+margin:50px;
+padding: 10px;
+}
