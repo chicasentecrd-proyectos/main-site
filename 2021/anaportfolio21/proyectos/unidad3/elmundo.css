@@ -1,0 +1,63 @@
+body{
+    background-image:url("love.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p {
+    background-color: white;
+    margin: 20px;
+    border: turquoise solid 5px;
+    text-align: center;
+}
+
+h2 {
+    background-color: white;
+    margin: 20px;
+    border:steelblue 5px;
+    text-align: center; 
+    border: springgreen solid 5px;
+}
+
+ol {
+    background-color: white;
+    margin: 20px;
+    border: springgreen solid 5px;
+    text-align: center;
+}
+
+ul {
+    background-color: white;
+    margin: 20px;
+    border: steelblue solid 5px;
+    text-align: center;
+}
+
+h1 {
+    background-color: white;
+    margin: 20px;
+    left: 200px; 
+     text-align: center;
+     border: steelblue solid 5px;
+}
+
+h3 {
+    background-color: white;
+    margin: 20px; 
+    text-align: center;
+    border: springgreen solid ;
+}
+
+
+div {
+    left: 100px;
+
+} 
+
+#video {
+    text-align: center;
+    border: steelblue solid 5px;
+
+
+}
+
+#

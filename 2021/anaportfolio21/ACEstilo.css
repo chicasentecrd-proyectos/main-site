@@ -1,0 +1,36 @@
+body {
+    background-color:#BF3880;
+}
+
+img {
+    width: 200px; 
+    
+}
+
+button {
+    background-color: #EBE0D0;
+    border: steelblue solid 0px;
+}
+
+.proyectos {
+    background-color: #D68FB0;
+    border:#F7CAC9 solid 10px;
+    margin: 29px;
+    text-align: center;
+}
+
+#encabezado {
+    background-color:#EAE6F0 ;
+    text-align: center;
+} 
+
+#bio {
+    text-align: center;
+    border:#EC9EC0 solid 24px ;
+}
+
+#tituloDestacados {
+    text-align: center;
+background-color: #EBE0D0;
+
+}

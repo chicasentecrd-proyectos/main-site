@@ -1,0 +1,31 @@
+body {
+    background-image: url("love.jpg");
+}
+div {
+    float: left; 
+    border: blueviolet solid 10px; 
+margin:20px;
+padding: 10px;
+}
+img { 
+    width: 100px;
+    height: 200px;
+}
+p {
+border: cyan solid 10px;
+margin: 20px;
+padding: 13px;
+     background-color: azure;
+}
+h1 {
+font-size: 200%;
+background-color: black;
+     background-color: rgb(189, 49, 182);
+color: rgb(14, 13, 12);
+} 
+
+h6 {
+    background-color: beige;
+    float: left;
+}
+
