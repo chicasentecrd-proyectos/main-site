@@ -1,0 +1,50 @@
+body{
+    background-color:#E3E8E9; 
+
+}
+h1{
+    text-align: center;
+    background-color: lavenderblush;
+}
+
+img { 
+    background-color:#FAE8E0;
+    width: 250px;
+    height: 200px;
+}
+
+button {
+    background-color:#E1E2E7;
+
+}
+.proyectos {
+    
+    border: #D8A7B1 solid 2px;
+    text-align: center;
+}
+
+
+#encabezado {
+    background-color:#E1E2E7;
+
+border: lavenderblush  dashed 10px;
+}
+
+#bio {
+    background-color:#F5E8DA;
+    border: #D8A7B1 dashed 5px;
+    margin: 10px;
+    padding: 20px;
+    text-align:center;
+}
+
+#tituloDestacados{
+    background-color:#E1E2E7;
+    text-align: center;
+    border: lavenderblush dashed 5px;
+}
+
+#contenedorProyectos{
+    background-color:#F5E8DA ;
+}
+

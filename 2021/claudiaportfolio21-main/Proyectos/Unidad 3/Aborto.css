@@ -1,0 +1,53 @@
+body {
+ background-color:pink;
+text-align:center;
+ padding:0vmin; 
+ margin: auto; 
+ content:icon; 
+ color: black;
+    
+}
+
+div{color:black;
+    text-align: center;
+    padding:inherit;
+    margin: auto;
+    border:dashed fuchsia;
+
+}
+
+p{
+    text-align: center;
+    margin: 0fr;
+    border:dashed fuchsia;
+    content: inherit;
+}
+
+
+
+img {
+ width:400px; 
+ height:300px;
+ text-align:right;
+border:mediumorchid dashed 10px;
+margin: 10px;
+}
+
+h2{
+font-size:unset;
+font-family: cursive;
+text-align:center;
+
+}
+
+h1{
+margin: 0vw;
+padding-right: 0vw;
+font-family: cursive;
+font-size:unset ;
+}
+#texogrande{
+    font-size: 30px;
+    text-align: center;
+    font-family: cursive;
+}
