@@ -1,0 +1,22 @@
+body{
+    background-color: #05445E;
+}
+
+div{ 
+    background-color: rgb(170, 114, 223);
+    border: solid white 5px;
+
+}
+ 
+h1{
+    text-align:center ;
+}
+
+h2{
+    text-align: center;
+}
+
+
+button{
+    background-color: azure;
+}

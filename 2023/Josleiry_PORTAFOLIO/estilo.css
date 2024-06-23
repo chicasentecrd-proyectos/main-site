@@ -1,0 +1,11 @@
+body {
+    background-color: #FB6B90;
+}
+
+button {
+    background-image: linear-gradient(red, yellow, blue);
+}
+
+img {
+    border: white solid 10px;
+}

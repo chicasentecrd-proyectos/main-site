@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(124, 15, 97);
+}
+.bio{
+    border-color: rgb(201, 6, 168);
+}
+image{
+    background-color: rgb(204, 2, 2);
+}
+button{
+    background-color: burlywood;
+}
+.proyecto {
+    background-color: rgb(110, 167, 231);
+}
+encabezado{
+    background-color: rgb(56, 165, 42);
+}
+titulodestacados{
+     background-color: rgb(8, 219, 219);
+}

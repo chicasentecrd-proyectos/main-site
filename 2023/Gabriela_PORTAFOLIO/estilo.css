@@ -1,0 +1,20 @@
+body{
+    background-color:rgb(247, 238, 124)
+} 
+.bio{
+    border: solid snow 5px;
+}
+img{
+    background-color: rgb(248, 233, 96);
+    
+}
+button{
+    background-color: rgb(238, 204, 53);
+    border: solid black 3px;
+    
+}
+.proyectos{
+    background-color: rgb(247, 238, 124);
+    border: solid white 6px;
+
+}

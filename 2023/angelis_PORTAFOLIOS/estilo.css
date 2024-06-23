@@ -1,0 +1,57 @@
+body {
+    background-color: #E7625F;
+    border:solid rgb(248, 227, 227) 10px;
+    font-size: large 10px;;
+}
+
+h1{
+    background-color:lightblue;
+    border:solid rgb(10, 204, 238) 10px;
+    text-align: center;
+    
+}
+
+p {
+    background-color: #bad6e4;
+    border:solid rgb(240, 202, 157) 10px;
+}
+img{border:solid #bad6e4 5px;}
+
+.proyectos {
+    background-color: wheat;
+    border: solid white 10px;
+
+}
+
+button{
+    background-color: aqua;
+    border: solid white 5px;
+}
+
+#contenedorProyectos{
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+margin-right: auto;
+width: 50%;
+height: 50%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

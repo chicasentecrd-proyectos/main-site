@@ -1,0 +1,31 @@
+body {
+    background-color: crimson;
+}
+
+h1 {
+    text-align: center;
+    background-color: rgb(0, 204, 255);
+}
+
+h2 {
+    text-align: center;
+    background-color: rgb(0, 204, 255);
+}
+
+ul {
+    background-color: beige;
+}
+
+div {
+    text-align: center;
+    background-color: bisque;
+}
+
+p {
+    text-align: center;
+    background-color: aquamarine;
+}
+
+img {
+    padding-left: 100px;
+}

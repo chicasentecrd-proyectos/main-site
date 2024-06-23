@@ -1,0 +1,38 @@
+body{
+      background-color: aqua
+}
+
+img{
+background-color: brown;
+}
+
+button{
+background-color: blue;
+
+}
+
+.proyectos{
+
+background-color: antiquewhite;
+
+}
+
+#encabesado{
+color: aliceblue;
+
+}
+
+#bio{
+
+      font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#titulodestacados{
+font-family:'Courier New', Courier, monospace ;
+
+}
+
+#contenedorproyectos{
+background-color: chocolate;
+
+}

@@ -1,0 +1,39 @@
+body {
+    background-color:lightblue
+}
+
+
+button{
+    background-color:aquamarine;
+    border: solid blue 5px;
+}
+
+.proyectos{
+    background-color:lightskyblue;
+    border: solid bisque 5px;
+}
+
+  #bio{ 
+    font-family:'Times New Roman', Times, serif;
+}
+
+h1{
+    text-align: center;
+}
+    
+
+
+
+h1{
+    background-color:cornflowerblue;
+}
+p{
+    background-color: azure;
+}
+
+#contenedorProyectos{
+    text-align:center;
+}
+
+
+

@@ -1,0 +1,38 @@
+body{
+    background-color: #fb8da0;
+}
+
+IMG{
+   background-color: #FB6B90;
+}
+
+button{
+    background-color: #fb4570;
+
+}
+
+.proyectos{
+
+    background-color: #FB6B90;
+    border: solid white 5px;
+}
+
+#encabezado {
+color: #020001;
+border-color: solid rgb(255, 241, 222) 2px;
+}
+
+#bio{
+
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+}
+
+#tituloDestacados{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+#contenedorProyectos{
+background-color: hotpink;
+
+}

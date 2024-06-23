@@ -1,0 +1,38 @@
+body {
+    background-color: #014e5e
+}
+
+img {
+    width: 50%;
+}
+
+button {
+    background-color: #c1f1f7;
+    border: solid white;
+}
+
+.proyectos {
+    background-color:#C55FFC;
+    border: solid white 5px
+}
+
+#bio {
+font-family: 'Times New Roman', Times, serif;
+
+}
+
+#tituloDestacados{
+
+    text-align: center;
+    background-color: antiquewhite;
+
+}
+
+#contenedorProyectos {
+    text-align: center;
+
+
+}
+    h1 {
+        text-align: center;
+    }

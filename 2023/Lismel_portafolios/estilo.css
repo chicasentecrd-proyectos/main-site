@@ -1,0 +1,7 @@
+body {
+    background-color: rgb(16, 162, 172);
+}
+
+button {
+    background-image: linear-gradient(purple, lightblue);
+}

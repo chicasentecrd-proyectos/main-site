@@ -1,0 +1,58 @@
+body {
+    background-color: #fbe;
+}
+
+p {
+    border: 6px solid rgb(252, 251, 251)
+}
+
+button {
+    background-color: #7EC8E3;
+}
+
+h2 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-size: large;
+}
+
+body {
+    border: 6px solid rgb(252, 249, 249);
+}
+
+img {
+    border: 2px solid rgb(252, 250, 250);
+    
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p {
+    text-align: center;
+}
+
+button {
+    border: 2px solid rgb(12, 1, 1);
+}
+
+h1 {
+    color: rgb(3, 3, 34);
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 50%;
+} 
+
+.proyectos {
+    text-align: center;
+}

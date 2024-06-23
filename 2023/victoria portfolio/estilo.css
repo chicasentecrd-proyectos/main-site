@@ -1,0 +1,43 @@
+body{
+    background-color: #05445e;
+}
+
+img{
+background-color: #189ab4;
+
+}
+button{
+background-color: #75e6da; 
+
+}
+
+.proyetos{
+background-color:#daf1fa ;
+
+}
+
+#encabezados{
+color: #020001;
+
+}
+#bio{
+
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+
+}
+
+#tituloDestacados{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+#contenedorProyectos{
+
+background-color: #189ab4;
+
+}
+
+
+
+
