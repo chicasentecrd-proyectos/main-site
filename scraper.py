@@ -20,7 +20,7 @@ def scrape_links(url):
         return []
 
 # Example usage
-url = "https://chicasentecrd-proyectos.github.io/main-site/twenty-three.html"  # Replace with the website you want to scrape
+url = "https://chicasentecrd-proyectos.github.io/main-site/twenty-four.html"  # Replace with the website you want to scrape
 links = scrape_links(url)
 
 # Print the links
