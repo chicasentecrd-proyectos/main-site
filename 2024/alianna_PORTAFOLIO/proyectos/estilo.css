@@ -1,0 +1,43 @@
+ body {
+    background-image: linear-gradient(#E4F4F3,#A1DBF1,#71D5E4,#00B6BC);
+
+ }
+
+img{
+   width: 250px; height: 250px;
+   border: solid #3A5673 5px;
+}
+ 
+button{
+   text-align: center;
+color: #CAB29F;
+}
+
+.proyectos{
+   border: solid#B0D2DA;
+   margin: 5px;
+   padding: 5px;
+   color: #2F5061;
+}
+
+#encabezado{
+   text-align: center;
+   font-family: 'Times New Roman', Times, serif;
+   font-size: xx-large;
+   color: #FADCD9;
+}
+
+#bio{
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: #CB7666;
+}
+
+#tituloDestacados{
+color: #CAB29F;
+text-align: center;
+}
+
+#contenedorproyectos{
+color: #00E091;
+border: dashed #f85a42;
+}

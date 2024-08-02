@@ -1,0 +1,59 @@
+body{
+    background-image: url(fondo4.avif);
+    background-size: 150%;
+    background-repeat: no-repeat;
+}
+
+div{
+    float: left;
+    border-color: lightcoral dotted 6px;
+    margin: 10px;
+    padding: 3px;
+}
+
+img{
+    width:270px;
+    height: 400px;
+
+}
+
+h1{
+    font-size:400px;
+    text-align: center;
+    background-color: aqua;
+    color: blue;
+}
+
+h6{
+    float: ieft;
+}
+
+p{
+    float: left;
+    border: color purple;
+    margin: 10px;
+    padding:5px;
+    background-color: bisque;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

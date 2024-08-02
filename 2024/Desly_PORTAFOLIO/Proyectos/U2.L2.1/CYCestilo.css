@@ -1,0 +1,25 @@
+body {
+    background-color: blanchedalmond;
+}
+
+#img {
+    height: 100px;
+    width: 750px;
+}
+
+h1 {
+    background-color: rgb(169, 215, 225);
+}
+
+.comidas {
+    background-color: rgb(241, 223, 199);
+}
+
+.ciudad {
+    background-color: beige;
+}
+
+#MiEncabezado {
+    background-color: azure;
+    text-align: center;
+}

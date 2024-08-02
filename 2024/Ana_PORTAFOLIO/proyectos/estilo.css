@@ -1,0 +1,39 @@
+body {
+    background-color:#D2E5D0 ;
+
+}
+
+#img {
+    height:300px ;
+    width: 400px;
+}
+
+button {
+    border: #d3eed7 solid 2px;
+    background-color: #e6fef3;
+}
+
+.proyectos {
+    background-color:#c9eee7 ;
+}
+
+#encabezado {
+    background-color: #d6e6d5;
+    color:#c4dace ;
+}
+
+#bio {
+    background-color:#DBF5F0 ;
+    color:#BACC81 ;
+}
+
+#tituloDestacados {
+    background-color:#cfe9bf;
+}
+
+#contenedorProyectos {
+    color:#BACC81 ;
+}
+
+
+

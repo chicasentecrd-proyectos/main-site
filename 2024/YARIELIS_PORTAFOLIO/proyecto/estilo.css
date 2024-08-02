@@ -1,0 +1,44 @@
+body{
+    background-image: linear-gradient(#F8C0C8,#EFE7D3,#D3BBDD,#ECE3F0);
+
+}
+
+image{
+ width: 400px;
+ height: 300px;
+
+    
+}
+
+button{
+    color: rgb(102, 23, 63);
+
+}
+
+.proyectos{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+border: hotpink solid 5px;
+}
+
+#encabezado{
+ background-color: hotpink;
+}
+
+#bio{
+float: left;
+border: #689ac4 dotted 6px;
+font-family: 'Courier New', Courier, monospace;
+
+}
+
+#tituloDestacados{
+color: rgb(102, 23, 63);
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+#contenedorProyectos{
+border-right-color: cyan;
+}
+
+
+

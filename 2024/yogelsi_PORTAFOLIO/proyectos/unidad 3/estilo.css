@@ -1,0 +1,35 @@
+body{
+    background-image: linear-gradient(#B1D4E0, #145DA0);
+}
+
+div {
+    float: center;
+    border: #d1cece solid 4px;
+    margin: 9px ;
+    padding: 4px;
+}
+
+h1 {
+    font-size: medium;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    color: rgb(60, 212, 223);
+}
+
+img{
+    height: 400px;
+    width: 400px;
+}
+
+h6 {
+    float: left;
+}
+
+p {
+    float: center;
+    border: rgb(10, 220, 248) solid 5px;
+
+    margin: 4px;
+    padding: 3px;
+    background-color: rgb(255, 255, 255);
+}

@@ -1,0 +1,34 @@
+body {
+    background-image: linear-gradient(#bbe7fe,#D3B5E5,#ffd4db,#eff1db);
+}
+
+img {
+    height: 470px;
+    width: 300px;
+}
+
+button {
+    color: #f05689;
+}
+
+
+.proyectos{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+}
+
+#encabezado {
+    color: #461f2c;
+    text-align: center;
+    border: #f05689 dashed 5px;
+}
+
+#bio{
+    float: left;
+    text-align: center;
+}
+
+#tituloDestacados {
+    border: #f05689 dashed 5px;
+    color: #461f2c;
+}

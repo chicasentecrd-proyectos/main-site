@@ -1,0 +1,51 @@
+body{
+    background-image: linear-gradient(#F8C0C8,#EFE7D3,#D3BBDD,#ECE3F0)
+}
+
+img{
+    width: 250px; height: 250px;
+    
+}
+
+button{
+ text-align: center;
+ margin: 5px;
+ padding: 5px;
+}
+
+.proyectos{
+    text-align: center;
+    color: #c86feb;
+    margin: 5px;
+    padding: 5px;
+}
+
+#encabezados{
+    text-align: left;
+    color: #E9679B
+}
+
+#bio{
+    color: #5E376D;
+    margin: 5px;
+    padding: 5px;
+}
+
+#tituloDestacados{
+    text-align: center;
+    color: #f397c5;
+    float: none;
+    font-family: serif;
+    font-size: xx-large;
+}
+
+#contenedorProyectos{
+    float: left;
+    
+}
+
+#encabezado{
+    color:#f397c5 ;
+    text-align: center;
+    border: #C26DBC dashed 5px;
+}

@@ -1,0 +1,35 @@
+h1 {
+    font-size: 100px;
+    text-align: center;
+    background-color: aliceblue;
+    color:#D3B5E5 ;
+}
+
+#nina {
+    height: 190px;
+    width: 290px;
+}
+
+img {
+    float: right;
+}
+
+#especial {
+    background-color:#D3BBDD ;
+    color: #ECE3F0;
+    border:#D4BBDD solid 2px ;
+}
+
+div {
+    background-color: #D3BBDD;
+    color:#ECE3F0 ;
+    border:#D4BBDD solid 2px ;
+}
+
+h2 {
+   color: #9d43d1; 
+}
+
+body {
+    background-color: #D4BBDD;
+}

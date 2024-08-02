@@ -1,0 +1,30 @@
+body{
+    background-image: linear-gradient(#fffffd, #69573b);
+}
+img{
+    width: 300px;
+    height: 300px;
+}
+button{
+      background-color: #0000;
+}
+.proyectos{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: #A45C40 inset 5px;
+}
+#encabezado{
+    background-color: #A45C40;
+} 
+#bio{
+   float: left; 
+   border: #eebaa6 inset 6px;
+   font-family: 'Courier New', Courier, monospace;
+   font-size: 20px;
+}
+#tituloDestacados{
+    color: #C38370;
+    font-family: 'Courier New', Courier, monospace;
+}
+#contenedorProyectos{
+    border-right-color: #ffd3fb inset 5px;
+}

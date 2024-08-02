@@ -1,0 +1,27 @@
+
+
+div {
+    float: left;
+    border: rgb(36, 34, 34) solid 5px;
+    margin: 9px ;
+    padding: 4px;
+}
+
+h1 {
+    font-size: medium;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    color: rgb(32, 33, 34);
+}
+
+h6 {
+    float: left;
+}
+
+p {
+    float: left;
+    border: rgb(33, 35, 36) solid 5px;
+    margin: 4px;
+    padding: 3px;
+    background-color: rgb(255, 255, 255);
+}

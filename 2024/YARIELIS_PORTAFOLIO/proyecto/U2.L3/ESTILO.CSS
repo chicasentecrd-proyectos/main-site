@@ -1,0 +1,40 @@
+BODY{
+
+ background-image: url(ROSA.jpg);
+}
+
+DIV{
+
+float: left;
+border:rgb(128, 240, 175);
+margin: 10PX;
+padding: 3PX;
+}
+
+img{
+
+width: 270PX;
+height: 400PX;
+}
+
+H1{
+
+font-size: 40px;
+text-align: center;
+background-color: rgb(95, 95, 185);
+color:pink
+}
+
+h6{
+
+float: left;
+}
+
+p{
+
+float: left;
+border: rgb(145, 77, 145)5px;
+margin:10px;
+padding:5px;
+color:black;
+}

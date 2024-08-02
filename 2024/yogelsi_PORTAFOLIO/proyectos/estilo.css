@@ -1,0 +1,43 @@
+body {
+    background-image: linear-gradient(rgb(131, 131, 240), white);
+
+}
+
+img {
+    width: 400px;
+    height: 400px;
+}
+
+button {
+    width: 100px;
+    background-color: #a6d2e9;
+    border: #F4EAE6 inset 6px;
+    font: small;
+}
+
+.proyectos { 
+    background-color:#F4EAE6;
+    padding: 10px;
+}
+
+#encabezado {
+    background-color: white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#bio {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+#tituloDestacados {
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+#contenedorProyectos {
+    border: #8dbed6 solid 6px;
+    font-family: 'Times New Roman', Times, serif;
+
+}

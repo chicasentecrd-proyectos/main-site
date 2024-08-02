@@ -1,0 +1,28 @@
+body{
+    background-image:linear-gradient(to right, #bbe7fe,#d3b5e5,#ffd4db,#eff1db);
+}
+image{
+    height: 270px;
+    width:400px ;
+}
+button{
+    color: #d3b5e5;
+}
+.proyectos{
+   font-size: 15px;
+}
+#encabezado{
+color: #b6709b;
+font-size: 40px;
+border: #e058be dotted 6px;
+}
+#bio{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: #e058be dotted 6px;
+}
+#tituloDestacados{
+    color: #eb7c8f;
+}
+#contenedorProyectos{
+    border-bottom: #d3b5e5;
+}

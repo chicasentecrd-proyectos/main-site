@@ -1,0 +1,40 @@
+body{
+    background-image:url(image.jpg);
+    background-repeat: no-repeat;
+    background-size: 200%;
+}
+
+div{
+    float: left;
+    border: lightblue solid 6px;
+    margin: 15px;
+    padding: 5px;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+    background-color: lightblue;
+    color: rgb(0, 0, 0);
+}
+
+h6{
+    float: left;
+    color: lightblue;
+    margin: 15px;
+}
+
+p{
+    float: left;
+    border: rgb(46, 132, 160) solid 6px;
+    margin: 15px;
+    padding: 8px;
+    background-color: lightblue;
+}
+
+

@@ -1,0 +1,31 @@
+body{
+    background-image: url(fondo4.avif);
+    
+}
+div{
+    float: left;
+    border:orange solid 6px;
+    margin: 10px;
+    padding: 3px;
+
+}
+img{
+    width: 200px;
+    height: 400px;
+}
+h1{
+    font-size: 40px;
+    background-color: rgb(204, 114, 31);
+    color: bisque;
+}
+ h6{
+    float: left;
+ }
+
+ p{
+    float: left;
+    border: white solid 6px;
+    margin: 10px;
+    padding: 5px;
+    background-color: rgb(221, 134, 34);
+ }

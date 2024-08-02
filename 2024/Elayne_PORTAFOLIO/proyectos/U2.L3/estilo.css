@@ -1,0 +1,31 @@
+body{ 
+    background-image: url(fondo.avif);
+
+}
+div{ 
+    float: left;
+    border: rgb(64, 61, 255) solid 5px;
+    margin:8px ;
+    padding: 5px;
+}
+img {
+    width: 300px;
+    height: 300px;
+}
+h1{
+font-size: 50px;
+text-align: center;
+background-color: rgb(85, 83, 217);
+color:#0d0e3c ;
+}
+h6{    
+    float:left;
+}
+
+p{   
+    float:left;
+    border:#120a4d solid 5px;
+    margin:8px;
+    padding: 5px;
+    background-color: rgb(23, 182, 227);
+}

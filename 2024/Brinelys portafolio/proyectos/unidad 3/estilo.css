@@ -1,0 +1,28 @@
+body{
+    background-image:linear-gradient(#E3E8E9,#E4B4B4);
+    border: #E4B4B4 dashed 5px;
+} 
+img{
+    border:#FB6B90 solid 3px;
+    width: 350px;
+    height: 400px;
+}
+ button{
+    text-align: center;
+    color: #E4B4B4;
+    text-decoration: overline;
+ }
+ .proyectos{
+    color:#FB8DA0 ;
+    text-align: center;
+    border: #fdbcfa dashed;
+ } 
+ #encabezado{
+    color: #FB6B90;
+    text-align: center;
+    border-bottom: #a7e4f0;
+ }
+ #tituloDestacados{
+   color: #FB6B90;
+   text-align: center;
+ }

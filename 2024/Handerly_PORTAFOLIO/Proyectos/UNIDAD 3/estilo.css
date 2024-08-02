@@ -1,0 +1,36 @@
+body{
+    background-image:linear-gradient(rgb(172, 189, 221),pink,rgb(209, 148, 209)) ;
+    
+}
+div{
+    float: left;
+    border: #ebe2ec dotted 6px;
+    margin: 10px;
+    padding: 10px;
+
+}
+img{
+    border: rgb(131, 18, 141)dotted 6px;
+    width: 300px;
+    height: 300px;
+}
+h1{
+    font-size: 40px;
+    background-color: #f1a3d7;
+    color: #569dc6;
+    border: #ba73db solid 6px;
+}
+ h6{
+    float: left;
+ }
+
+ p{
+    float: left;
+    border: #569dc6 solid 6px;
+    margin: 10px;
+    padding: 5px;
+    background-color: rgb(205, 132, 214);
+ }
+ h2{
+    color: #569dc6;
+ }

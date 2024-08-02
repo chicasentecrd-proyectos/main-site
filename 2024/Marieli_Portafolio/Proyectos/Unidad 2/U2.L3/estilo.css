@@ -1,0 +1,23 @@
+body { background-image: url(fondo\ de\ pantalla.jfif);
+}
+div{ float: left;
+    border: gray solid 6px;
+    margin: 15px;
+    padding: 5px;
+}
+img{ width: 150px;
+    height: 200px;
+}
+h1{ font-size: 50px;
+    text-align: center;
+    background-color: lightgrey;
+    color: black (243,195,64);
+}
+h6{ float: left;
+}
+p{ float: left;
+    border: bisque solid 6px;
+    margin: 15px;
+    padding: 15px;
+    background-color: lightblue;
+}

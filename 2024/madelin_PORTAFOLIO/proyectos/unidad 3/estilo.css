@@ -1,0 +1,31 @@
+body {
+    background-image: linear-gradient(rgb(106, 198, 226), white);
+}
+
+img {
+    width: 400px;
+    height: 400px;
+}
+
+.proyectos {
+    background-color: beige 200px;
+    padding: 10px;
+    font-size: 25px;
+}
+
+#encabezado {
+    background-color: rgb(242, 255, 255);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+
+#bio {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 23px;
+}
+
+#contenedorProyectos {
+    border: blueviolet 6px;
+    font-family: 'Times New Roman', Times, serif;
+}

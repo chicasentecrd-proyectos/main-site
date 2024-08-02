@@ -1,0 +1,52 @@
+body {
+    background-image: url('br.jpg');
+}
+
+div {
+    float: right;
+    border: lightgrey solid 2px;
+    margin: 10px;
+    padding: 10px;
+}
+
+#eloise {
+    height: 400px; 
+    width: 400px;
+}
+
+#colin {
+    height: 400px;
+    width: 400px;
+
+}
+
+h1{
+    font-size: 100px;
+    text-align: center;
+    background-color: aliceblue;
+    color: antiquewhite;
+}
+
+h6 {
+    float: left;
+}
+
+p {
+    float: left;
+    border: beige solid 2px;
+    margin: 10px;
+    padding: 5px ;
+}
+
+
+img {
+    float: left;
+}
+
+
+
+
+
+
+
+

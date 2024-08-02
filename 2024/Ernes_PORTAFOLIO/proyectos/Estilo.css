@@ -1,0 +1,42 @@
+body{
+    background-image:url(Liso.png)
+}
+
+img {
+    width: 200px;
+    height: 400px;
+}
+
+button {
+    float: right;
+    border:wheat solid 6px;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.proyectos {
+    font-family: 'Times New Roman', Times, serif;
+    background-image: linear-gradient( to right,#FBE7C6,#B4F8C8,#a0e7e5,#ffaebc);
+}
+
+#encabezado {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    margin: 15px;
+    text-align: center;
+    border: lightgrey solid 6px;
+
+}
+
+#bio {
+    color: black;
+}
+
+#tituloDestacados {
+    color:black;
+
+}
+
+#contenedorProyectos {
+    background-color:white;
+}

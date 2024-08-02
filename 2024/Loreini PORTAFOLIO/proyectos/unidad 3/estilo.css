@@ -1,0 +1,29 @@
+body {
+    background-image: linear-gradient(#408acf, #ffffff);
+}
+
+H1 {
+    text-align: center;
+    background-color: beige;
+}
+
+img{
+    border: #fcfafa solid 4px;
+    width: 270px;
+    height: 300px;
+
+}
+
+
+p{
+    font-size: 25px;
+}
+
+ol{
+    font-size: 25px
+}
+
+h2 {
+    background-color: aliceblue;
+    border: #91c599 dashed 5px;
+}

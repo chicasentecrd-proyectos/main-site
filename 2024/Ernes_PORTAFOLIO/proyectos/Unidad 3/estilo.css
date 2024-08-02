@@ -1,0 +1,27 @@
+body {
+    background-image: url(nuevo.jfif);
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    font-size: 35px;
+    
+    
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+font-size: 20px;
+border:black solid 6px;
+margin: 15px;
+padding: 8px;
+background-color: lightgoldenrodyellow;
+}
+
+img {
+    width: 300px;
+    height: 400px;
+    border: black solid 6px;
+}
+

@@ -1,0 +1,39 @@
+body{
+    background-image: linear-gradient(#e0b0ff,#fa8072,#3eb489,#006d5b);
+}
+
+img{
+    height: 600px;
+    width: 400px;
+}
+
+button{
+    color: #e65591;
+}
+
+.proyectos{
+text-align: center;
+}
+
+#encabezado{
+    color: yellow;
+    text-align: left;
+    font-size: 35px;
+}
+
+#bio{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+#tituloDestacados{
+    text-align: center;
+    color: #006d5b;
+    border: #fa8072 dotted 6px;
+}
+
+#contenedorProyectos{
+    border: #fa8072 dotted 6px;
+    font-size: 15px;
+
+}

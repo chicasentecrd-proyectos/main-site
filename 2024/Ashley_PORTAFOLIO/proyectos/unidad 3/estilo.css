@@ -1,0 +1,26 @@
+body{
+    background-image: linear-gradient(#FBE7C6,#B4F8C8,#A0E7E5,#FFAEBC );
+}
+ h1{
+    font-size: 40px;
+    background-color: aqua;
+}
+
+h2{
+    font-size: 35px;
+    color: antiquewhite;
+}
+
+p{
+    border: aliceblue dashed 6px;
+    margin: 15px;
+    padding: 5px;
+    font-size: 30px;
+    background-color: bisque;
+}
+
+img{
+    width: 300px;
+    height: 400px;
+    border-bottom: antiquewhite( 180, 57%, 67%) double 6px;
+}

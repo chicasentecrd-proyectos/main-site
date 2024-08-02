@@ -1,0 +1,41 @@
+body {
+    background-image: linear-gradient(#FFD4DB, #D3B5E5);
+}
+
+img {
+    width: 400px;
+    height: 400px;
+}
+
+button {
+    width: 100px;
+    background-color: #f7c1ca;
+    border: white dashed 6px;
+    font-size: 10px;
+}
+
+.proyectos { 
+         background-color:#f7c1ca;
+         padding: 10px;
+}
+
+#encabezado {
+    background-color: #C8F4F9;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#bio {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+#tituloDestacados {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #C8F4F9;
+}
+
+#contenedorProyectos {
+    border: #C8F4F9 dashed 6px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

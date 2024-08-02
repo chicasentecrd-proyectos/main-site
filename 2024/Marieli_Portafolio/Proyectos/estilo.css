@@ -1,0 +1,37 @@
+body{ background-image: url(segundo\ fondo.avif);
+}
+img{ width: 200px;
+    height: 300px;
+    border: bisque solid 7px;
+    margin: 20px;
+    
+}
+button{ 
+    text-align: right;
+    background-color: beige;
+}
+.proyectos{font-size: 20px;
+    text-align: left;
+    background-image: linear-gradient(#FBE7C6,#FFAEBC,#A0E7E5,#B4F8C8);
+    color: black;
+}
+#encabezado{
+    text-align: center;
+    background-color: powderblue;
+    
+}
+#bio{
+    background-color: honeydew;
+    font-size: 20px;
+}
+#tituloDestacado{
+    text-align: center;
+    background-color: aqua;
+    margin: 20px;
+    border: ivory solid 6px;
+}
+#contenedorProyectos{
+     text-align: left;
+    background-color: lemonchiffon;
+
+}

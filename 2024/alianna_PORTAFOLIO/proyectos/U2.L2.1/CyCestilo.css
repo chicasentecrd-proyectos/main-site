@@ -1,0 +1,53 @@
+body {
+      background-color: pink;
+}
+
+h1 {
+  text-align: center;
+  background-color: rgb(255, 220, 226);
+}
+h2 {
+  background-color: pink;
+}
+p  {
+  background-color: rgb(255, 220, 226);
+}
+
+.Bibliografia{
+  text-align: center;
+  background-color: pink;
+}
+
+#uruguay{
+      font-size: large;
+      background-color: rgb(255, 220, 226);
+}
+
+
+img {
+      height:100px;
+       width: 200px;
+      }
+
+.ciudad{
+        background-color: pink;
+}
+
+.comida {
+   background-color: rgb(255, 220, 226);
+}
+
+#Miencabezado {
+       background-color: pink;
+
+}
+
+
+
+
+
+
+
+
+
+

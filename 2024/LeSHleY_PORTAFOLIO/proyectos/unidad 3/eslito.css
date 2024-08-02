@@ -1,0 +1,27 @@
+body{
+    background-image:linear-gradient(#e8b4b8,#eed6d3,#a49393,#67595e) ;
+}
+
+   h1{
+    font-size: 50px;
+    background-color: #e8b4b8;
+   }
+
+   h2{
+    font-size: 50px;
+    color: #67595e;
+   }
+
+   p{
+    border: #eed6d3 dashed 6px;
+    margin: 15px;
+    padding: 5px;
+    font-size: 30px;
+    background-color: #fae5e6;
+   }
+
+   img{
+    width: 300px;
+    height: 300px;
+    border: #eed6d3 double 6px;
+   }

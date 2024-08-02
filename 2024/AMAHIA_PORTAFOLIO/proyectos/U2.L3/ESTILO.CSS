@@ -1,0 +1,26 @@
+BODY{
+    background-image: url(azul.jfif);
+    background-repeat: no-repeat;
+    background-size: 150%;
+}
+div{
+    float: left;
+}
+img{
+    width: 270px;
+    height: 400px;
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+    background-color: rgb(43, 86, 226);
+    color: azure;
+}
+h6{
+    float: left;
+}
+p{
+    float: left;
+    border:rebeccapurple 5px;
+    padding: 5px;
+}

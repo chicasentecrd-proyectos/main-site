@@ -1,0 +1,31 @@
+body { 
+    background-image: url(Imagen\ de\ fondo.jpg);
+}
+
+div {
+    float: left;
+    border:lightblue solid;
+    margin: 15px;
+    padding: 5px;;
+    
+}
+
+img {
+    width: 300px;
+    height: 400px;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    background-color: lightcyan;
+    color: rgb(16, 15, 15);
+}
+
+p {
+    float: left;
+    border: white solid 6px;
+    margin: 15px;
+    padding: 8px;
+    background-color: lightgoldenrodyellow;
+}

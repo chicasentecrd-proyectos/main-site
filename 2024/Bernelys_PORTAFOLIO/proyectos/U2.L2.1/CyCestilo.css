@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(238, 238, 78);
+}
+
+img{
+    width: 200px;
+    height: 100px;
+}
+
+h1{
+    background-color: rgb(69, 69, 199);
+}
+
+.ciudad{
+    background-color: rgb(218, 62, 62);
+}
+
+.comidas{
+    background-color: rgb(238, 238, 78);
+}
+
+#Miencabezado{
+    text-align: center;
+    font-size: 30px;
+    background-color: rgb(69, 69, 199);
+}
+
+#bibliografia{
+    background-color: lightslategray;
+    color: white;
+}

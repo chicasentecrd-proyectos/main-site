@@ -1,0 +1,32 @@
+body{
+    background-image: linear-gradient(#B6E2D3,#FAE8E0);
+}
+  img{
+    width: 400px;
+    height: 400px;
+    border:#7836e2 solid 5px ;
+  }
+   button{
+    font-size: 15px;
+    color:#D8A7B1 ;
+   }
+   .proyectos{
+    background-color: #b98ca6 ;
+    border: #7836e2  solid 5px;
+    font-size: 20px;
+   }
+   #encabezado{
+    font-size: 40px;
+   }
+
+   #bio{
+    font-size: 20px;
+   }
+   #tituloDestacados{
+    font-size: 40px;
+    background-color: #4542db;
+    border: #b98ca6 solid 5px;
+   }
+   #contenedorProyectos{
+    margin: 15px;
+   }

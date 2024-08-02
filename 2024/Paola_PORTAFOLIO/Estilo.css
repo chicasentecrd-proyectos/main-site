@@ -1,0 +1,40 @@
+body{
+    background-image: linear-gradient(#FBE7C6,#B4F8C8,#A0E7E5,#FFAEBC);
+}
+
+img{
+    width: 250px; height: 250px;
+    border: #FBE7C6 solid 4px;
+}
+
+h1{
+    color: #DEB3AD;
+    border: #FBE7C6;
+}
+
+p{
+    text-align: left;
+}
+
+h6{
+    text-align: left;
+    font-size: xx-large;
+    color: #B32800;
+}
+
+h5{
+    text-align: left;
+    font-size: xx-large;
+    color: #FC3C80;
+}
+
+button{
+    font-size: xx-large;
+    color: #FC3C80;
+}
+
+h2{
+    color: #B32800;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

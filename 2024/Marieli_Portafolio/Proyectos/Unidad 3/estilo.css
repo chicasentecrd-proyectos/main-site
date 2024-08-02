@@ -1,0 +1,30 @@
+body { background-image: url(segundofondo.avif);
+}
+div{ float: left;
+    border: gray solid 6px;
+    margin: 15px;
+    padding: 5px;
+}
+img{ width: 200px;
+    height: 250px;
+}
+h1{ font-size: 20px;
+    text-align: center;
+    background-color: lightgrey;
+    color: black (243,195,64);
+}
+h2{ float: left;
+    border: khaki solid 6px;
+    margin: 15px;
+    padding: 15px;
+    background-color: aquamarine;
+}
+p{ float: left;
+    border: bisque solid 6px;
+    margin: 15px;
+    padding: 15px;
+    background-color: lightblue;
+}
+h4{ float: left;
+background-color: lightgoldenrodyellow;
+}
